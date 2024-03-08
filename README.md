@@ -10,7 +10,13 @@ Welcome to the **Digital Music Store Data Analysis** repository! This README pro
 
 ## Overview
 
-**Digital Music Store** wants to create an annual sales report for 2022. So that, Vrindha can understand their customers and grow more sales in 2023.
+In this endeavor, I took a closer look at Digital Music Store. The challenge was to empower the management with valuable insights using MySQL.
+
+<br/>
+
+## Tools & Approach
+
+I harnessed MySQL, navigating through concepts like Joins, Subqueries, and more. Excel helped visualize the data.
 
 <br/>
 
@@ -18,33 +24,41 @@ Welcome to the **Digital Music Store Data Analysis** repository! This README pro
 
 The repository structure is organized as follows:
 
-- [Document](https://github.com/KoteswararaoNadikoti/Online-Store-Data-Analysis/blob/main/Online%20store%20data%20analysis.pdf/) : Contains all the written documents related to the project.
-- [Dashboard](https://github.com/KoteswararaoNadikoti/Online-Store-Data-Analysis/blob/main/Online%20Store%20Data%20Analysis.xlsx) : Includes additional resources, such as Raw Data, Dashboard, references, etc.
+- [Document](https://github.com/KoteswararaoNadikoti/Digital-Music-Store-Data-Analysis/blob/main/Digital%20music%20store%20data%20analysis.pdf) : Contains additional resources, such as Ad-Hoc Requests, Queries, Visuals, references, etc.
+- [Queries](https://github.com/KoteswararaoNadikoti/Online-Store-Data-Analysis/blob/main/Online%20Store%20Data%20Analysis.xlsx) : Includes Ad-Hoc Requests and Queries
 
 <br/>
 
 ## Objectives
 
-The primary objectives of this Online Store Data Analysis are:
+The primary objectives of this Digital Music Store Data Analysis are:
 
-- Analyze sales data to understand trends, patterns, and fluctuations in sales over time. Identify peak sales periods, bestselling products, and underperforming categories.
-- Evaluate the effectiveness of marketing campaigns, promotions, and advertising channels.
-- Segment customers based on demographics, purchasing behavior, or other relevant factors. Understand the preferences and characteristics of different customer segments.
+- This SQL project is to perform in-depth data analysis of a digital music store database, extracting valuable insights to inform business decisions and enhance operational efficiency.
+
+- The analysis will focus on several key areas, addressing specific requests from stakeholders like top-selling genres, Analyze purchase behavior to identify segments for targeted marketing campaigns.
+
+- Evaluate the impact of promotional campaigns on sales revenue, Analyze customer acquisition channels and conversion rates, Determine if there are regional preferences in music genres or artists.
+
+- By addressing these specific requests and leveraging SQL queries to extract and analyze data from the digital music store database.
+
+- The project aims to provide actionable insights that drive business growth, improve customer satisfaction, and optimize operational processes.
 
 <br/>
 
 ## Insights
 
-1. Women are more likely to buy compared to men (~65%)
-2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
-3. Adult age group (30-49 years) is max contributing (~50%)
-4. Amazon, Flipkart and Myntra channels are max contributing (~80%)
+1. Utilize customer segmentation for targeted marketing and personalized recommendations.
+2. Analyze sales data to understand genre, artist, and track popularity for effective inventory management.
+3. Implement predictive analytics for forecasting sales and customer behavior.
+4. Develop recommendation systems to enhance user engagement and drive sales.
+5. Explore geographic data for market expansion opportunities and localization efforts.
+6. Analyze customer feedback, and ensure data security and compliance for continuous improvement and customer satisfaction.
 
 <br/>
 
-## Final Conclusion
+## What I've Learned
 
-Target women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+This project honed my skills in SQL, providing hands-on experience with real-world data. I mastered the art of transforming raw information into actionable insights, a skill crucial in the dynamic landscape of data analytics.
 
 <br/>
 
