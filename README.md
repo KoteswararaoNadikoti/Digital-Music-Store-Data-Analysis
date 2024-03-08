@@ -2,6 +2,8 @@
 
 <p align="center"><img width="100%" alt="Digital Music Store " src="https://raw.githubusercontent.com/KoteswararaoNadikoti/Digital-Music-Store-Data-Analysis/main/Digital%20music%20store.png" /></p>
 
+[Video Presentation](https://www.linkedin.com/posts/koteswararaonadikotii_datadriven-musicanalytics-digitalmusic-activity-7168866541537599490-uzaj?utm_source=share&utm_medium=member_desktop/)
+
 <br />
 
 Welcome to the **Digital Music Store Data Analysis** repository! This README provides an overview of the Digital Music Store, its objectives, structure, and how to contribute.
