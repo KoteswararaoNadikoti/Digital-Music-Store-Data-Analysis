@@ -68,4 +68,4 @@ For questions or further information about the project, please contact Koteswara
 
 ---
 
-Thank you for your interest in the Online Store Data Analysis project! We look forward to your contributions and feedback.
+Thank you for your interest in the Digital Music Store Data Analysis project! We look forward to your feedback.
