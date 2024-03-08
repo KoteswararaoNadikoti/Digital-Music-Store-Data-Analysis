@@ -26,7 +26,7 @@ The repository structure is organized as follows:
 
 - [Document](https://github.com/KoteswararaoNadikoti/Digital-Music-Store-Data-Analysis/blob/main/Digital%20music%20store%20data%20analysis.pdf) : Contains additional resources, such as Ad-Hoc Requests, Queries, Visuals, references, etc.
 - [Queries](https://github.com/KoteswararaoNadikoti/Online-Store-Data-Analysis/blob/main/Online%20Store%20Data%20Analysis.xlsx) : Includes Ad-Hoc Requests and Queries
-
+- [MusicDatabase Schema](https://raw.githubusercontent.com/KoteswararaoNadikoti/Digital-Music-Store-Data-Analysis/main/MusicDatabaseSchema.png) : Music Database Schema
 <br/>
 
 ## Objectives
