@@ -12,7 +12,7 @@ Welcome to the **Digital Music Store Data Analysis** repository! This README pro
 
 ## Overview
 
-In this endeavor, I took a closer look at Digital Music Store. The challenge was to empower the management with valuable insights using MySQL.
+Digital Music Store is the Online Store that sells music albums. In this endeavor, I took a closer look at Digital Music Store. The challenge was to empower the management with valuable insights using MySQL.
 
 <br/>
 
